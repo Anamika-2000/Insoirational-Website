@@ -1,0 +1,24 @@
+.navigation
+{
+    background-color:aliceblue !important;
+}
+.Heading
+{
+    text-align: center; 
+     color:chartreuse !important;
+     font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.intro
+{
+    font-size:140%;
+     font-family:serif ;
+     text-align: center;
+     color: cornflowerblue;
+}
+.para
+{
+    font-size:140%;
+     font-family:serif ;
+     text-align: left;
+     color:crimson;
+}
